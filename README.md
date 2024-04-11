@@ -4,13 +4,13 @@ This repository hosts a Power BI project designed to provide a comprehensive ove
 
 ## Project Overview
 
-The Power BI report (`MT412_PowerBi_Group3.pbip`) offers insights into [mention the key insights the report aims to provide, such as customer demographics, sales trends, or operational metrics]. It's designed to help stakeholders make informed decisions by providing a clear view of [mention what the data represents, such as sales data, customer feedback, or operational metrics].
+The Power BI report (`MT412_PowerBi_Group3.pbip`) offers insights into Blackbird's sale data from 2014 - 2017. It's designed to help stakeholders make informed decisions by providing a clear view of [mention what the data represents, such as sales data, customer feedback, or operational metrics].
 
 ### Features
 
 - Interactive dashboards that allow users to filter and drill down into specific data points.
-- Visualizations that highlight trends, patterns, and outliers in the data.
-- [Any other features, such as forecast models or custom visuals].
+- Visualisations that highlight trends, patterns, and outliers in the data.
+- Q&A tools to get information short and quickly.
 
 ## Getting Started
 
@@ -28,7 +28,7 @@ These instructions will guide you on how to explore the Power BI report.
 
 ## Using the Report
 
-Explore the report by navigating through different tabs and using slicers or filters to segment the data. The report is interactive, so clicking on specific elements in one visualization will filter other parts of the report accordingly.
+Explore the report by navigating through different dashboards and using slicers or filters to segment the data. The report is interactive, so clicking on specific elements in one visualisation will filter other parts of the report accordingly.
 
 ## Authors
 
