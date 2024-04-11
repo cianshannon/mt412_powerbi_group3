@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "artifacts": [
+    {
+      "report": {
+        "path": "MT412_PowerBi_Group3_BohdanBoiprav_CatalinBondari_CianShannon_JamesHoward_MaximeJunca.Report"
+      }
+    }
+  ],
+  "settings": {
+    "enableAutoRecovery": true
+  }
+}
