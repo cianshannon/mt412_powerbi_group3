@@ -4,17 +4,20 @@ This repository hosts a Power BI project designed to provide a comprehensive ove
 
 ## Project Overview
 
-The Power BI report (`MT412_PowerBi_Group3.pbip`) offers insights into Blackbird's sale data from 2014 - 2017. It's designed to help stakeholders make informed decisions by providing a clear view of [mention what the data represents, such as sales data, customer feedback, or operational metrics].
+The Power BI report (`MT412_PowerBi_Group3.pbip`) offers insights into Blackbird's sale data from 2014 - 2017. It's designed to help stakeholders make informed decisions by providing a clear view of some **key insights** of the business.
 
+### Key Insights
+
+**1. Orders and Product Breakdown:** The Orders Data dashboard and Sales & Product Analysis dashboard provide a comprehensive description of the orders and product sales of the company. Data in regards to order by date, orders by category, top-5 selling states by orders as well as total quantity of sales, total profit, and unique number of customers can be seen visualised on the *Orders Data* dashboard. Data in regards to product sales, top-5 customers, sales by months as well as total number of sales, total cost of sales, and unique number of products can be seen visualised on the *Sales & Product Analysis* dashboard.
+
+**2. Geographic Insights:** The Geographic Insights dashboard provides an overview of how the company is performing in the US. The dashboard utilises a shape map visualisation of the US that is coloured by sales volume. This visualisation provides Blackbird with key information regarding which states have the most sales. There is also a filled map that showcases the most popular sub-category sold in each state which provides Blackird with regional preferences information.
+
+**3. Operational Insights:** The Operational Insights dashboard is created to provide managers and stakeholders of Blackbird with information concerning the company's operational performance. There is a Q&A visualisation to provide quick and simple information, a card visualisation to showcase the top-selling product by category, a doughnut ring visualisation that provides a breakdown of the most common modes of shipping by category, and a discount impact analysis graph to see how much sales are affected by the average discount rate.
 ### Features
 
 - Interactive dashboards that allow users to filter and drill down into specific data points.
 - Visualisations that highlight trends, patterns, and outliers in the data.
 - Q&A tools to get information short and quickly.
-
-## Getting Started
-
-These instructions will guide you on how to explore the Power BI report.
 
 ### Prerequisites
 
