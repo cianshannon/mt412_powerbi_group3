@@ -1,3 +1,5 @@
+### LINK TO DASHBOARD: https://app.powerbi.com/groups/me/reports/b1e446e3-7460-4cd8-a9c7-7d49e413644e/ReportSectionf208fb3881908f722ea8?experience=power-bi
+
 # Blackbird Analytics with Power BI
 
 This repository hosts a Power BI project designed to provide a comprehensive overview of Blackbird, a US-based wholesaler. This Power BI file is intended to provide information and guidance for the managers of Blackbird. This project leverages Power BI to visualise and analyse data related to **Orders Data**, **Sales and Product Analysis**, **Geographical Insights**, and **Operational Insights**.
